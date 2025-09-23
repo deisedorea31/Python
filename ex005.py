@@ -51,3 +51,4 @@ contagem_palavras = Counter(todas_palavras)
 print("\nContagem de palavras no arquivo (pontuação removida, minúsculas):")
 for palavra, quantidade in contagem_palavras.items():
     print(f"{palavra}: {quantidade}")
+ 
