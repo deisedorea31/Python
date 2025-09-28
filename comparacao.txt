@@ -1,8 +1,0 @@
-=== Lista separada por vírgula ===
-Amora,abacaxi,abacate,banana
-
-=== Lista em várias linhas ===
-Amora
-abacaxi
-abacate
-banana
